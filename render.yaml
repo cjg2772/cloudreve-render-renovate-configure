@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: cloudreve
+    name: lcycloud
     env: docker
-    repo: https://github.com/Guangsudalao-Studio/cloudreve-render.git
+    repo: https://github.com/cjg2772/cloudreve-render-renovate-configure.git
     region: Singapore
     plan: free
     healthCheckPath: /
